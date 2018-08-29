@@ -1,2 +1,2 @@
 # WeatherPy
-GitHub Pages for WeatherPy project
+GitHub Pages for equator weather project.
